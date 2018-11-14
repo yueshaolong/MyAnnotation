@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="bestFoods">
+        <item>sf</item>
+        <item>ol</item>
+    </string-array>
+
+</resources>
